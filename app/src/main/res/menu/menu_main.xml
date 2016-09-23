@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/locationCity"
+        android:icon="@drawable/location_white"
+        android:title="Location"
+        app:showAsAction="always"/>
+    <item android:id="@+id/Refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="Location"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_terms"
+        android:title="Terms"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_contactus"
+        android:title="Contact us"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_share"
+        android:title="Share Waverr"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_rateus"
+        android:title="Rate us"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_signout"
+        android:title="Sign out"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waverr</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_in_restataurant">InRestataurant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_in_restaurant">InRestaurant</string>
+    <string name="title_activity_filters">Filters</string>
+    <string name="title_activity_login">Login</string>
+    <string name="facebook_app_id">874638982584054</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="ga_act_login_fb">Login fb</string>
+    <string name="ga_act_login_google">Login google</string>
+    <string name="ga_act_login_without">Login without</string>
+    <string name="ga_act_refresh">Refresh</string>
+    <string name="ga_act_restaurant_card">Restaurant Card</string>
+    <string name="ga_act_city_select">City select</string>
+    <string name="ga_act_terms">Terms</string>
+    <string name="ga_act_reset_filter">Reset Filter</string>
+    <string name="ga_act_share">Share</string>
+    <string name="ga_act_mainmenu_share">Main Page Share</string>
+    <string name="ga_act_filter">Filter</string>
+    <string name="ga_act_set_filter">Set Filter</string>
+    <string name="ga_act_call">Call</string>
+    <string name="ga_act_get_directions">Get Directions - In Restaurant</string>
+    <string name="ga_act_get_directions_card">Get Directions - Card</string>
+    <string name="ga_act_backbutton_inRestaurant">Back Button - In Restaurant</string>
+
+    <string name="ga_act_contactus">Contact us</string>
+    <string name="ga_act_rateus">Rate us</string>
+    <string name="ga_act_share_indeal">share_indeal</string>
+    <string name="ga_act_directions_indeal">directions_indeal</string>
+    <string name="ga_act_how_to_indeal">how_to_indeal</string>
+    <string name="ga_act_activate_indeal">activate_indeal</string>
+    <string name="ga_act_call_indeal">call_indeal</string>
+    <string name="ga_act_restaurant_homepage">retaurant_homepage</string>
+    <string name="ga_act_filter_inrest">filter_inrest</string>
+    <string name="ga_act_call_inrest">call_inrest</string>
+    <string name="ga_act_directions_inrest">directions_inrest</string>
+    <string name="ga_cat_button_click">Button click</string>
+    <string name="ga_cat_type_in">Type in</string>
+    <string name="logout">Logout</string>
+    <string name="loginText">Please login with your Google Account</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>

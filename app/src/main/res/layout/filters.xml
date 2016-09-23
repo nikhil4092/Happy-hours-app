@@ -1,0 +1,61 @@
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:orientation="vertical"
+    tools:context="waverr.project.com.waverr.Filters">
+
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent" android:gravity="top"
+
+        >
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset Filters"
+        android:id="@+id/reset_Filter"
+        android:background="#00aeef"
+        android:textColor="#ffffff"
+
+        />
+
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:id="@+id/scroll"
+        android:paddingBottom="40dp"
+        android:layout_below="@+id/reset_Filter"
+        >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/checkbox_container"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        >
+
+
+    </LinearLayout>
+</ScrollView>
+
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent" android:gravity="bottom"
+        android:layout_marginTop="10dp"
+
+        >
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/set_filter"
+        android:background="#00aeef"
+        android:textColor="#ffffff"
+        android:text="Set filters"/>
+    </RelativeLayout>
+
+    </RelativeLayout>
+</FrameLayout>
